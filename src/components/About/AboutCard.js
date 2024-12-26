@@ -8,8 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple"> Pooja Kamshetty </span> From Hyderabad, India . I am currently pursuing my Master's  in Computer Science 
-            from  <span className="purple"> University of Memphis</span>
+            Hi Everyone, I am <span className="purple"> Pooja Kamshetty </span> From Hyderabad, India . I recently graduated with a Master's degree in Computer Science from<span className="purple"> The University of Memphis</span>
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

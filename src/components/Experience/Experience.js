@@ -31,21 +31,21 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement className='vertical-timeline-element--education'
           date='May 2019 - Sep 2019'
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          iconStyle={{ background: "#90519e", color: "#fff" }}
           icon={<Work />}>
           <p className='vertical-timeline-element-title'>
           Web Development Intern - Ridhan Technologies Private Ltd., Hyderabad,India.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement className='vertical-timeline-element--education'
           date='Jan 2020 - Aug 2020'
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          iconStyle={{ background: "#90519e", color: "#fff" }}
           icon={<Work />}>
           <p className='vertical-timeline-element-title'>
           Software Developer - People Tech Group Inc. Hyderabad, India</p>
         </VerticalTimelineElement>
       <VerticalTimelineElement className='vertical-timeline-element--education'
           date='2020-2022'
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          iconStyle={{ background: "#90519e", color: "#fff" }}
           icon={<Work />}>
           <p className='vertical-timeline-element-title'>
           Associate Software Engineer - CDK GLOBAL,Hyderabad,India.
@@ -62,7 +62,7 @@ function Experience() {
         </VerticalTimelineElement>
         <VerticalTimelineElement className='vertical-timeline-element--education'
           date='2024-Present'
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
+          iconStyle={{ background: "#90519e", color: "#fff" }}
           icon={<Work />}>
           <p className='vertical-timeline-element-title'>
           Technical Analyst -Methodist Healthcare Memphis,USA </p>

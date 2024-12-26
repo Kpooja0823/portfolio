@@ -18,7 +18,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I love building websites from scratch, where I can handle both the parts you see  <b className="purple">like buttons and forms</b> and the behind-the-scenes like  <b className="purple"> databases and servers</b>.
+             
+            I love crafting websites from scratch, blending<b className="purple"> intuitive front-end design</b> with robust backend functionality for <b className="purple"> seamless user experiences </b>.
               <br />
               <br />I'm skilled in using 
               <b className="purple"> Java, SpringBoot, React, and .Net  </b> to make sure everything works smoothly and looks great!

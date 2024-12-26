@@ -50,8 +50,6 @@ function Projects() {
               //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
-
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Book}
@@ -62,7 +60,6 @@ function Projects() {
               //demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={sorting}
@@ -70,7 +67,6 @@ function Projects() {
               title="Sorting Visualizer"
               description="It is a Java-based tool with an intuitive graphical interface that demonstrates sorting algorithms like Bubble Sort, Merge Sort, and more in real-time for learning and exploration."
               ghLink="https://github.com/Kpooja0823/Sorting-Visualizer-"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
         </Row>
